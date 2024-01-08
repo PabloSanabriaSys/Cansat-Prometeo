@@ -1,4 +1,4 @@
-# Cansat - Prometeus
+# Cansat - Prometeo 1
 
 ![Logo](Media/logo.png)
 
