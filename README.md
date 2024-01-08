@@ -7,7 +7,7 @@ Este proyecto fue desarrollado para el Concurso Nacional de Nanosatelites 2023, 
 
 Consta de una pagina web donde se pueden visualizar los datos que llegan desde el Cansat hasta nuestra base de datos en Mongo DB.
 
-El proyecto contiene el backend desarrollado en Python con Flask y Pymongo, ademas del frontend desarrollado en React con la libreria ChartJs para mostrar las graficas mas representativas de los datos.
+El proyecto contiene el backend desarrollado en Python con Flask y Pymongo, ademas del frontend desarrollado en React con la libreria ChartJs para mostrar las graficas mas representativas de los datos. Finalmente se utilizaron tecnologias como TreeJS para una representacion en 3D del cansat y Leaflet para observar en un mapa la ubicacion actual de este.
 
 ## Características
 - Pagina de Control de calidad del Aire.
